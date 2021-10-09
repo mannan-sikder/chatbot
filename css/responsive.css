@@ -1,0 +1,82 @@
+
+@media(max-width: 1399px){
+
+
+}
+@media(max-width: 1199px){
+
+ }
+@media(max-width: 991px){
+				    header > .container {
+				        padding: 2rem 0;
+				    }
+				    .banner_content h1 {
+				    font-size: 2.2rem;
+				    line-height: 50px;
+				}
+				.feature {
+				    padding: 10px 5px;
+				   }
+				.feature h2 {
+				    font-size: 18px;
+				    line-height: 30px;
+				}
+				section {
+				    padding: 48px 0;
+				}
+				.courses {
+				    font-weight: 500;
+				    padding: 10px;}
+				.courses h2 {
+				    font-size: 18px;
+				    font-weight: 700;
+				    line-height: 24px;}
+				.btn-custom {
+				    font-size: 14px;
+				}
+				.courses ul li {
+					font-size: 14px;
+				}
+				.courses ul li:last-child{
+				display: none;
+				}
+				.header h1 {
+				    margin-bottom: 30px;
+				    font-size: 30px;
+				    line-height: 40px;
+				}
+    
+}
+
+@media(max-width: 767px){
+	section {
+    padding: 30px 0;
+			}
+	.banner_content h1 {
+	    font-size: 24px;
+	    line-height: 30px;
+					}
+	.banner_content p{
+		font-size: 14px;
+	 				}
+	 .feature{
+	 	    margin-bottom: 15px;
+	 		}
+	 .courses {
+    margin-bottom: 15px;
+}
+/*// X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px) {
+	.banner_content {
+	 text-align: center;
+	 margin: auto;
+	}
+	.banner_img img{
+
+	}
+	.btn-custom {
+    padding: 7px 18px 7px 18px;}
+  .testimonial_content p{
+  	font-size: 12px;
+  }
+ }
